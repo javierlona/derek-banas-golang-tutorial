@@ -1,2 +1,2 @@
 # golang_dev
-My Golang projects 
+My Go programming language projects
